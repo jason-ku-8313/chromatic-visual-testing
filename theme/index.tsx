@@ -10,7 +10,7 @@ const withTheme = (node: JSX.Element) => (
         theme={{
           token: {
             colorPrimary: 'red',
-            // colorFillSecondary: 'yellow'
+            colorFillSecondary: 'yellow'
           },
         }}
       >
